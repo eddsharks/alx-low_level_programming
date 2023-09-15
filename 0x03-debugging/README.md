@@ -1,1 +1,1 @@
-This folder is for debugging in c programming
+This folder is for c debugging
