@@ -16,8 +16,9 @@ int main(void)
 	* - you are only allowed to write one statement
 	* - you are not allowed to code anything else than this line of code
 	*/
-	p[5] = 98; //remember code is on line 19
-	// just that this prints 98\n
+	p[5] = 98; 
+	/* rmb code on line 19 and so that this prints 98\n */
 	printf("a[2] = %d\n", a[2]);
 	return (0);
 }
+
